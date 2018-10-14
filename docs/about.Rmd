@@ -3,3 +3,11 @@ title: "About This Website"
 ---
 
 More about this website.
+
+Test
+
+```{r}
+### Example analysis
+plot(rnorm(100))
+```
+
